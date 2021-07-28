@@ -18,6 +18,7 @@ def shadow(channel, shots, noise=False, seed=None, output="Prep-Meas", adaptive=
     
     Things look helpful:
         https://qiskit.org/documentation/stubs/qiskit.quantum_info.Choi.html#qiskit.quantum_info.Choi
+        https://qiskit.org/documentation/stubs/qiskit.quantum_info.diamond_norm.html#qiskit.quantum_info.diamond_norm
         https://qiskit.org/documentation/tutorials/noise/8_tomography.html
         tomography package contains a most generalized function _tomography_circuits:
             https://qiskit.org/documentation/_modules/qiskit/ignis/verification/tomography/basis/circuits.html
